@@ -1,1 +1,1 @@
- script_that_changes_user_directory_to_home_directory
+Display_file_content_in_long_format

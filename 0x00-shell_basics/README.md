@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+ script_that_changes_user_directory_to_home_directory

@@ -1,1 +1,1 @@
-listmore files
+Display current directory contents.

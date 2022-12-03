@@ -1,1 +1,1 @@
-Display_file_content_in_long_format
+Directory_content_including_hidden_files
